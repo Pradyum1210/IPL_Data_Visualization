@@ -89,6 +89,4 @@ Google Colab
 
 
 
-Which season had the most close matches?
 
-Which players have the most Man of the Match awards?
